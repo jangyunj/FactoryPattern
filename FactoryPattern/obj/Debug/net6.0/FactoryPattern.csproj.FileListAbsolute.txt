@@ -1,0 +1,5 @@
+C:\Users\hwait\Desktop\C#\FactoryPattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\hwait\Desktop\C#\FactoryPattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwait\Desktop\C#\FactoryPattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\hwait\Desktop\C#\FactoryPattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\hwait\Desktop\C#\FactoryPattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.CoreCompileInputs.cache
